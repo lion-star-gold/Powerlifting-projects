@@ -16,4 +16,5 @@ The data for this project was pulled from openpowerlifting.org on 05-Jan-2022.
 I've been in the powerlifting community for a few years now and have first-hand seen the sport increase in popularity. Let's make a visualisation of this!
 
 Using data from all classic powerlifting competions:
+
 ![Bar chart showing number of competitors per year in classic (raw) powerlifting in Great Britain and Northern Ireland](https://github.com/lion-star-gold/Powerlifting-visualisation-and-prediction/blob/main/visualisations/Competitors%20in%20BP%20and%20subdivisions.png?raw=true)
