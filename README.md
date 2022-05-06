@@ -9,5 +9,11 @@ In a competition, a competitor is weighed and organised into a weight category, 
 I really enjoy powerlifting. I love competing, I love seeing others compete, and I love helping others to compete. I decided to visualise past results as a way to see how the sport has grown, and how performance in the sport has changed over time - and how it may change in the future. Its inspiring to watch records be broken year-on-year, and see performances change over time.
 
 #### British Powerlifting
+
+The data for this project was pulled from openpowerlifting.org on 05-Jan-2022.
+
 ##### Competition attendance
 I've been in the powerlifting community for a few years now and have first-hand seen the sport increase in popularity. Let's make a visualisation of this!
+
+Using data from all classic powerlifting competions:
+![Bar chart showing number of competitors per year in classic (raw) powerlifting in Great Britain and Northern Ireland](https://github.com/lion-star-gold/Powerlifting-visualisation-and-prediction/blob/main/visualisations/Competitors%20in%20BP%20and%20subdivisions.png?raw=true)
