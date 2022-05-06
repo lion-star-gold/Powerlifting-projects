@@ -7,3 +7,7 @@ In a competition, a competitor is weighed and organised into a weight category, 
 
 #### What is this project?
 I really enjoy powerlifting. I love competing, I love seeing others compete, and I love helping others to compete. I decided to visualise past results as a way to see how the sport has grown, and how performance in the sport has changed over time - and how it may change in the future. Its inspiring to watch records be broken year-on-year, and see performances change over time.
+
+#### British Powerlifting
+##### Competition attendance
+I've been in the powerlifting community for a few years now and have first-hand seen the sport increase in popularity. Let's make a visualisation of this!
