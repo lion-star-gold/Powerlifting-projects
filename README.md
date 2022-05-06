@@ -21,10 +21,10 @@ Using data from all classic powerlifting competions:
 
 We see a huge increase in competitors from 2014 - 2015, followed by further steadier increases up until 2020 where competitions were heavily impacted by COVID-related disruption. Due to lockdowns both total and partial 2020 - 2021 the number of competitors was greatly reduced.
 
-![Bar chart showing number of competitions per year in classic (raw) powerlifting in Great Britain and Northern Ireland](![image](https://user-images.githubusercontent.com/23198950/167123481-c6a5b509-56f0-4572-949a-dd6e20f8b122.png)
+![Bar chart showing number of competitions per year in classic (raw) powerlifting in Great Britain and Northern Ireland](https://user-images.githubusercontent.com/23198950/167123481-c6a5b509-56f0-4572-949a-dd6e20f8b122.png)
 
 While this graph of the number of competitions includes 2008 - slightly precluding the official founding of the British Powerlifting federation - it shows a similar trend as the number of competitors as above.
 
-![Point chart showing percentages of men and women competing in classic (raw) powerlifting in Great Britain and Northern Ireland](![image](https://user-images.githubusercontent.com/23198950/167123739-fe867350-266c-4a97-bf42-cc7dbeea048f.png)
+![Point chart showing percentages of men and women competing in classic (raw) powerlifting in Great Britain and Northern Ireland](https://user-images.githubusercontent.com/23198950/167123739-fe867350-266c-4a97-bf42-cc7dbeea048f.png)
 
 Here we can see a gradual increase in the amount of women competitors in classic powerlifting, curtailed slightly in 2021.
