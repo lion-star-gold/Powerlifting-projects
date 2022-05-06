@@ -29,4 +29,4 @@ While this graph of the number of competitions includes 2008 - slightly precludi
 
 Here we can see a gradual increase in the amount of women competitors in classic powerlifting, curtailed slightly in 2021.
 
-The three graphs above are sourced from [here](https://github.com/lion-star-gold/Powerlifting-visualisation-and-prediction/blob/main/BP%20visualisations%20-%20all%20comp%20participation.ipynb)
+The three graphs above are sourced from [here](https://github.com/lion-star-gold/Powerlifting-visualisation-and-prediction/blob/main/BP%20visualisations%20-%20all%20comp%20participation.ipynb).
